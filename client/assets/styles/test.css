@@ -1,0 +1,5 @@
+body {
+    color: red;
+    background-image: url('/src/assets/images/bg.jpeg');
+    background-size: cover;
+}
